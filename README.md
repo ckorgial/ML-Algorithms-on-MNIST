@@ -1,4 +1,4 @@
-# ML Algorithms on MNIST
+# Machine Learning Algorithms on MNIST
 Machine Learning Techniques Apply on MNIST Dataset. The results are shown in Figures attached in the Code
 
 ![MNIST](https://user-images.githubusercontent.com/72823989/130362033-4ffb424e-4df9-40b3-a30d-96d73e413a3f.png)
